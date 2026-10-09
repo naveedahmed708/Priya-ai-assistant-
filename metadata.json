@@ -1,0 +1,6 @@
+{
+  "name": "Priya AI Assistant",
+  "description": "Voice-first Android AI assistant with Priya personality, permissions engine, and Gemini Live voice capabilities.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
